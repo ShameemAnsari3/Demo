@@ -13,5 +13,6 @@ h1{
     background-color: coral;
     padding: 10px;
     border-radius: 20px;
-    font-size: 2rem;
+    font-size: 3rem;
+    text-align: center;
 }
